@@ -19,7 +19,18 @@
 📢 I also create cybersecurity awareness content on my YouTube channel **[ETcybertube](https://www.youtube.com/@ETcybertube)**.  
 
 ---
+### 🎓 Education  
+- **BSc in Information Systems** | Addis Ababa University  
+  📍 Addis Ababa, Ethiopia | **09/2019 - 06/2023**  
 
+---
+
+### 💼 Professional Experience  
+- **Cybersecurity Auditor & Penetration Tester** | INSA  
+  📍 Addis Ababa, Ethiopia  
+- **UI/UX Designer Intern** | Knowledge Mentor Solution PLC  
+  📍 Addis Ababa, Ethiopia
+---
 ### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,typescript,html,css,js,php,docker,figma,,linux,python,bash,js,git" alt="Tech Stack" />
